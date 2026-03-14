@@ -1,6 +1,6 @@
  Telecom Customer Churn Analysis
 
-This project predicts telecom customer churn using machine learning.
+This project  uses machine learning to predict telecom customer churn and identify the key factors influencing customer retention.
 
 Tools Used:
 Python, Pandas, Scikit-learn, Seaborn
